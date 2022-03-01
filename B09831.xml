@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iohn Arm-strongs last good-night. Declaring how John Arm-strong and his eightscore men, fought a bloody bout with a Scottish king at Edenborough.  To a pretty northern tune, called, Fare thou well Giltknock-hall.</title>
+            <author>T. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09831</idno>
+            <idno type="STC">Wing R84C</idno>
+            <idno type="STC">ESTC R182337</idno>
+            <idno type="EEBO-CITATION">64551635</idno>
+            <idno type="OCLC">ocm 64551635</idno>
+            <idno type="VID">184742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184742)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iohn Arm-strongs last good-night. Declaring how John Arm-strong and his eightscore men, fought a bloody bout with a Scottish king at Edenborough.  To a pretty northern tune, called, Fare thou well Giltknock-hall.</title>
+                  <author>T. R.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1658?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed by: T. R.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armstrong, John, d. 1528 --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184742:1"/>
+            <head>Iohn Arm-ſtrongs laſt good night. DECLARING How John Arm-ſtrong and his eightſcore men, fought a bloody Bout with a Scot<g ref="char:EOLhyphen"/>tiſh King at Edenborough.</head>
+            <opener>To a pretty Northern Tune, called, Fare you well guilt Knock-hall.</opener>
+            <lg>
+               <l>
+                  <figure>
+                     <figDesc>woodcut of an armed gentleman and a lady facing each other</figDesc>
+                  </figure> IS there never a man in all <hi>Scotland</hi>
+               </l>
+               <l>from the higheſt ſtate to the loweſt degrée,</l>
+               <l>That can ſhew himſelf now before the King,</l>
+               <l>
+                  <hi>Scotland</hi> is ſo full of their Traitery?</l>
+            </lg>
+            <lg>
+               <l>Yes, there is a man in <hi>Weſtmerland,</hi>
+               </l>
+               <l>and <hi>John Arm-ſtrong</hi> ſome do him call,</l>
+               <l>He has no Lands nor Rents coming in,</l>
+               <l>Yet he keeps eightſcore men within his hall.</l>
+            </lg>
+            <lg>
+               <l>He has horſe and harneſs for them all,</l>
+               <l>and goodly ſtéeds that he milk white,</l>
+               <l>With their goodly belts about their necks,</l>
+               <l>with hats and feathers all alike.</l>
+            </lg>
+            <lg>
+               <l>The King he writ a lovely letter,</l>
+               <l>with his own hand ſo tenderly,</l>
+               <l>And has ſent it unto <hi>John Arm-ſtrong</hi>
+               </l>
+               <l>to come and ſpeak with him ſpéedily.</l>
+            </lg>
+            <lg>
+               <l>Whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>John</hi> he looked the letter upon,</l>
+               <l>then word <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was as blithe as a bird in a trée,</l>
+               <l>I was never before no King in my life,</l>
+               <l>my Father, my Grandfather, nor none of us thrée</l>
+            </lg>
+            <lg>
+               <l>But ſéeing we muſt before the King,</l>
+               <l>Lord we will go moſt valiantly,</l>
+               <l>You ſhall every one have a velvet coat,</l>
+               <l>laid down with golden laces thrée;</l>
+            </lg>
+            <lg>
+               <l>And you ſhall every one have a ſcarlet cloak,</l>
+               <l>laid down with ſilver laces <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>With your golden belts about your necks,</l>
+               <l>with hats, brave feathers all alike,</l>
+            </lg>
+            <lg>
+               <l>But when <hi>John</hi> he went from guilt Knock-hall,</l>
+               <l>the wind it blew hard, and full ſore it did rain</l>
+               <l>Now fare you well brave guilt Knock-hall,</l>
+               <l>I fear I ſhall never ſée thée again.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Iohn</hi> he is to <hi>Edenborough</hi> gone,</l>
+               <l>and his eightſcore men ſo gallantly,</l>
+               <l>And every one of them on a milk-white ſtéed,</l>
+               <l>with their bucklers &amp; ſwords hanging down to the knée</l>
+            </lg>
+            <lg>
+               <l>But when <hi>Iohn</hi> he came the King before,</l>
+               <l>with his eightſcore men ſo gallant to ſée,</l>
+               <l>The King he moved his bonnet to him,</l>
+               <l>he thought he had béen a King as well as he,</l>
+            </lg>
+            <lg>
+               <l>O pardon, pardon, my Soveraign Leige<g ref="char:punc">▪</g>
+               </l>
+               <l>pardon for my eightſcore men and me<g ref="char:punc">▪</g>
+               </l>
+               <l>For my name it is <hi>Iohn Arm-ſtrong,</hi>
+               </l>
+               <l>and a ſubject of yours my Leige ſaid he.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:184742:1" rendition="simple:additions"/>
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure>
+                     <figDesc>an army with drummers marches behind a flag, carrying muskets</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>AWay with thée thou falſe Traitor,</l>
+                  <l>no pardon I will grant to thee,</l>
+                  <l>But to morrow before eight of the clock,</l>
+                  <l>I will hang thy eightſcore men and thée.</l>
+               </lg>
+               <lg>
+                  <l>O how <hi>Iohn</hi> looked over his left ſhoulder,</l>
+                  <l>and to his merry men thus ſaid he,</l>
+                  <l>I have asked grace of a graceleſs face,</l>
+                  <l>no pardon here is for you nor me.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Iohn</hi> pull'd out a nut-brown ſword,</l>
+                  <l>and it was made of mettle ſo frée,</l>
+                  <l>Had not the King moved his foot as he did.</l>
+                  <l>
+                     <hi>Iohn</hi> had taken his head from his body.</l>
+               </lg>
+               <lg>
+                  <l>Come follow me my merry men all,</l>
+                  <l>we will ſcorn one foot away to fly.</l>
+                  <l>It never ſhall be ſaid we were hung like doggs</l>
+                  <l>no wée'l fight it out moſt manfully,</l>
+               </lg>
+               <lg>
+                  <l>Then they fought on like Champions bold,</l>
+                  <l>for their hearts was ſturdy, ſtout, and frée,</l>
+                  <l>Till they had killed all the Kings good Guard.</l>
+                  <l>there was none le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t alive but onely thrée.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t then riſe up all <hi>Edenborough,</hi>
+                  </l>
+                  <l>they riſe up by thouſands three,</l>
+                  <l>Then a cowardly Scot c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me <hi>Iohn</hi> behind,</l>
+                  <l>and run him thorow the fair body.</l>
+               </lg>
+               <lg>
+                  <l>Said <hi>Iohn,</hi> fight on my merry m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n all,</l>
+                  <l>I am a little hurt, but I <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m not ſlain</l>
+                  <l>
+                     <hi>London, <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> for Francis Grove on Sow-hill,</hi>
+                  </l>
+                  <l>I will lay me down for to bléed a while,</l>
+                  <l>then Ile riſe, and fight with you again.</l>
+               </lg>
+               <lg>
+                  <l>Then they fought on like mad men all,</l>
+                  <l>till many a man lay dead on the plain,</l>
+                  <l>for they were reſolved before they would yield,</l>
+                  <l>that every man would there be ſlain.</l>
+               </lg>
+               <lg>
+                  <l>So there they fought couragiouſly,</l>
+                  <l>till moſt of them lay dead there, and ſlain,</l>
+                  <l>But little <hi>Muſgrave</hi> that was his foot-page,</l>
+                  <l>with his bonny griſſel got away untain.</l>
+               </lg>
+               <lg>
+                  <l>But when he came up to guilt Knock-hall,</l>
+                  <l>the Lady ſpeed him preſently.</l>
+                  <l>Wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t news what news thou little Foot-page,</l>
+                  <l>what news from thy Maſter &amp; his company?</l>
+               </lg>
+               <lg>
+                  <l>My news is b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, Lady he ſaid,</l>
+                  <l>which I do bring as you m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y ſée,</l>
+                  <l>My Maſter <hi>Iohn Arm-ſtrong</hi> he is ſlain</l>
+                  <l>and all his gallant company.</l>
+               </lg>
+               <lg>
+                  <l>Yet thou art welcom home my bonny Griſel,</l>
+                  <l>full oft thou haſt fed at the corn and hay,</l>
+                  <l>But now thou ſhalt be fed with bread and wine</l>
+                  <l>and thy ſides ſhall be ſpurred no more I ſay</l>
+               </lg>
+               <lg>
+                  <l>O then beſpoke his little Son,</l>
+                  <l>as he was ſet on his Nurſes knée,</l>
+                  <l>If ever I live for to be a man,</l>
+                  <l>my Fathers blood revenged ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be.</l>
+                  <l>
+                     <hi>Entered according to Order.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>T. R.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
